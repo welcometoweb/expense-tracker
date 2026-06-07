@@ -1,4 +1,4 @@
-const API_URL = "YOUR_APPS_SCRIPT_URL";
+const API_URL = "https://script.google.com/macros/s/AKfycbzm5htRfI7CZJjgv76jFJBxK5C0OMrJU2rc76HQ8Kas0_v-gBlhLV_XalIgvGmDHMqf/exec";
 
 let selectedType = "Need";
 
