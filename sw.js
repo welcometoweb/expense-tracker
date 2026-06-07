@@ -1,12 +1,11 @@
 const CACHE_NAME = 'pocket-ledger-v1';
 
-// Files to cache on install — the app shell
 const SHELL_FILES = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192.png',
-  '/icon-512.png'
+  '/expense-tracker/',
+  '/expense-tracker/index.html',
+  '/expense-tracker/manifest.json',
+  '/expense-tracker/icon-192.png',
+  '/expense-tracker/icon-512.png'
 ];
 
 // ── Install: cache the shell ──────────────────────────────────────────────────
